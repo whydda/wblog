@@ -1,0 +1,7 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/themefisher/parsa-hugo-personal-blog-theme
+[submodule "public"]
+	path = public
+	url = https://github.com/whydda/whydda.github.io.git
+	branch = masater
